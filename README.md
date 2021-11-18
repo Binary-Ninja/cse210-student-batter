@@ -39,4 +39,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your names and emails here
+Wolf Wetzel: wet21001@byui.edu
