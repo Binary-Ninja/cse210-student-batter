@@ -1,4 +1,3 @@
-import random
 from game import constants
 from game.director import Director
 from game.actor import Actor
